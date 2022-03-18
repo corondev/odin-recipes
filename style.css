@@ -1,0 +1,13 @@
+* {
+    background-color: #ffe4c4;
+}
+
+.main-img {
+    border: solid 3px #8b0000;
+    width: 50%;
+    height: auto;
+}
+
+.title-red {
+    color: #8b0000;
+}
